@@ -18,25 +18,21 @@
 - PyStyle
 ## نصب و راه اندازی
 
-پروژه را کلون کنید 🔗
 
 ```bash
   git clone https://github.com/lxxcloud-official/CLoUD-BoMBER
 ```
 
-به فولدر پروژه بروید 📂
 
 ```bash
   cd CLoUD-BoMBER
 ```
 
-پکیج ها را نصب کنید 🔻
 
 ```bash
   pip install -r requirements.txt
 ```
 
-لذت ببرید 💖
 
 ```bash
   python main.py
