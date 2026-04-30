@@ -1,3 +1,7 @@
+# DEMO
+<img src="\Plugins\demo bomb.gif" alt="demo" width="600">
+
+
 # CLoUD BoMBER💣
 
 
